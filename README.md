@@ -1,8 +1,9 @@
 # Basic Network Security Assessment using Nmap
 
 ## Overview
-This project demonstrates a basic network security assessment performed using Nmap.  
-The goal is to identify open ports, running services, and evaluate the security posture of the target system.
+# Network Security Assessment using Nmap
+
+This project demonstrates a practical network security assessment using Nmap, focusing on service enumeration, SMB analysis, and basic vulnerability evaluation in a controlled lab environment.
 
 ---
 
@@ -86,3 +87,7 @@ Security controls such as authentication and message signing are properly implem
 - Perform authenticated scanning
 - Conduct deeper vulnerability analysis
 - Expand to additional network services
+
+## Disclaimer
+
+This project was conducted in a controlled lab environment for educational purposes only. No unauthorized systems were targeted.
