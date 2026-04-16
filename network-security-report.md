@@ -113,7 +113,7 @@ Implement network activity monitoring to detect anomalies.
 
 If SMB services were misconfigured or exposed without authentication, it could allow unauthorized access to shared resources. This may lead to data leakage, unauthorized modifications, or lateral movement within the network.
 
-10 Potential Risks
+11 Potential Risks
 
 - SMB misconfiguration could expose sensitive data  
 - Weak credentials could allow brute-force attacks  
