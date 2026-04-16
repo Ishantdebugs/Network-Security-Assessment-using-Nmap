@@ -76,6 +76,16 @@ Download PDF version: [Download Report](Basic Network Security Assessment using 
 
 ---
 
+## Skills Demonstrated
+
+- Network reconnaissance using Nmap  
+- Service and port enumeration  
+- SMB protocol analysis  
+- Basic vulnerability assessment  
+- Security configuration evaluation  
+- Technical report writing
+
+---
 
 ## Conclusion
 The system appears relatively secure based on the performed assessment.  
