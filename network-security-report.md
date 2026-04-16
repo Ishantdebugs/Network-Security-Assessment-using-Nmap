@@ -109,3 +109,16 @@ Maintain a regular patching schedule for the operating system and all active ser
 Schedule periodic comprehensive security audits.
 Implement network activity monitoring to detect anomalies.
 
+10 Risk Perspective
+
+If SMB services were misconfigured or exposed without authentication, it could allow unauthorized access to shared resources. This may lead to data leakage, unauthorized modifications, or lateral movement within the network.
+
+10 Potential Risks
+
+- SMB misconfiguration could expose sensitive data  
+- Weak credentials could allow brute-force attacks  
+- Unpatched systems could be vulnerable to exploits such as EternalBlue
+
+## Disclaimer
+
+This assessment was conducted in a controlled lab environment for educational purposes only. No unauthorized systems were targeted.
