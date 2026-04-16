@@ -73,6 +73,14 @@ network-security-report.md
 
 ---
 
+## Screenshots
+
+![Basic Scan](screenshots/nmap-basic.png)
+![Service Detection](screenshots/nmap-service.png)
+![SMB Scan](screenshots/smb-scan.png)
+
+---
+
 ## Conclusion
 The system appears relatively secure based on the performed assessment.  
 Security controls such as authentication and message signing are properly implemented.
