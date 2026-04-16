@@ -69,7 +69,7 @@ The target appears to be a Windows-based system based on detected services.
 
 ## Detailed Report
 
-See full report here: [View Report](network-security-report.md)
+See full report here: [View Report](network-security-report.md )
 
 Download PDF version: [Download Report](Basic Network Security Assessment using Nmap.pdf)
 
